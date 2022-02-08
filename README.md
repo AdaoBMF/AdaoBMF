@@ -1,6 +1,6 @@
 ### Buenas! Eu sou o Adão
 
-- 🔭 Atualmente tentando ingressar no mercado de Desenvolvimento back-end
+- 🔭 Atualmente tentando ingressar no mercado de Desenvolvimento Java
 - 🤓 Estudando Java
 - 😄 Pronouns: ele/dele/he/him
 
