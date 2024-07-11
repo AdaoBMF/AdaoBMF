@@ -1,6 +1,6 @@
 ### Buenas! Eu sou o Adão
 
-- 🛠️ Trainee back-end node.js
+- 🛠️ back-end node.js developer
 - 🤓 Estudando Javascript / node.js
 - 😄 Pronouns: ele/dele/he/him
 
